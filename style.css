@@ -8,9 +8,13 @@ body {
   margin: 2em auto;
   font-size: 1.1em;
 }
+h1 {
+  color: #2fd86d;
+}
 b {
   color: #cc224d;
 }
 a {
   color: #224dcc;
+  text-decoration: none;
 }

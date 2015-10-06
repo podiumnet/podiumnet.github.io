@@ -5,4 +5,11 @@ body {
   font-family: sans-serif;
   color: #222;
   margin: 2em;
+  font-size: 1.1em;
+}
+h1 {
+  color: #ea4871;
+}
+b {
+  color: #4871ea;
 }

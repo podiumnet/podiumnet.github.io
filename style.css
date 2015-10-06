@@ -4,7 +4,8 @@
 body {
   font-family: sans-serif;
   color: #222;
-  margin: 2em;
+  width: 50%;
+  margin: 2em auto;
   font-size: 1.1em;
 }
 b {
